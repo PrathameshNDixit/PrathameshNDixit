@@ -1,16 +1,13 @@
-### Hi there 👋
+ Hi there I'm Prathamesh👋
 
-<!--
-**PrathameshNDixit/PrathameshNDixit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Blog Project
+- 🌱 I’m currently learning NodeJS
+- 👯 I’m looking to collaborate on GitHub
+- 🤔 I’m looking for help with DataBases
+- 💬 Ask me about Anything
+- 📫 How to reach me: Linkedin: [@Prathamesh_Dixit](%28https://www.linkedin.com/in/prathamesh-dixit-440072200/%29)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I am A programmer who dont like coffee
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=PrathameshNDixit&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
