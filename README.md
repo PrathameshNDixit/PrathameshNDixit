@@ -1,4 +1,4 @@
-[![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
+![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Prathamesh Dixit</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" align="right" />
