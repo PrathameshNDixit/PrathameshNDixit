@@ -1,4 +1,4 @@
-![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
+[![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Prathamesh Dixit</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" align="right" />
@@ -42,8 +42,8 @@
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshndixit&show_icons=true&locale=en&layout=compact" alt="prathameshndixit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshndixit&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prathameshndixit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathameshndixit&show_icons=true&locale=en" alt="prathameshndixit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathameshndixit&show_icons=true&locale=en&theme=tokyonight" alt="Prathamesh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshndixit&" alt="prathameshndixit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshndixit&&theme=tokyonight" alt="prathameshndixit" /></p>
